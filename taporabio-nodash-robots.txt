@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taporabio.github.io/sitemap.xml
